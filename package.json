@@ -1,0 +1,23 @@
+{
+  "name": "frontendcamp-express-blog",
+  "version": "1.0.0",
+  "description": "a basic read-only blog app in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altayaydemir/frontendcamp-express-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altayaydemir/frontendcamp-express-blog/issues"
+  },
+  "homepage": "https://github.com/altayaydemir/frontendcamp-express-blog#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nunjucks": "^3.0.1"
+  }
+}
